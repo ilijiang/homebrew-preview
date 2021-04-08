@@ -1,4 +1,4 @@
-cask "docker" do
+cask "docker-rc@3" do
   version ""
   sha256 ""
 
