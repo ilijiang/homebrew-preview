@@ -1,6 +1,6 @@
 cask "docker-rc@3" do
-  version ""
-  sha256 ""
+  version "RC 3,62632"
+  sha256 "648e36a83811c7041a97a41c050073b9ec50602c588e692501df2c14ef4b66a3"
 
   url "https://desktop.docker.com/mac/stable/arm64/62632/Docker.dmg"
   name "Docker Desktop"
